@@ -12,7 +12,8 @@ It is a binary classification problem, for a given pair of questions we need to 
 
 # Conclusions 
 
-![Conclusion](https://imgur.com/0TYXmPS)
+![conclusion](https://user-images.githubusercontent.com/42304018/71747126-df9f0680-2e94-11ea-90f5-d5e202580993.png)
+
 
 # Resources/ Useful Links 
 - Source : https://www.kaggle.com/c/quora-question-pairs
